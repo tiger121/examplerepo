@@ -6,3 +6,4 @@ Another change
 bugfix from master
 changed in by checkout in newbranch calle newfeature
 change form newfeature branch
+change from the bob in the repo
