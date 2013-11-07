@@ -4,3 +4,4 @@ I am changing something in this git file
 change two
 Another change
 bugfix from master
+changed in by checkout in newbranch calle newfeature
